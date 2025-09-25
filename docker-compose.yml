@@ -1,0 +1,76 @@
+version: '3.8'
+
+services:
+  # Redis 缓存服务
+  redis:
+    image: redis:7-alpine
+    container_name: deepar-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+    networks:
+      - deepar-network
+
+  # DeepAR 预测服务
+  deepar-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: deepar-api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_DB=0
+      - LOG_LEVEL=INFO
+      - MODEL_STORAGE_PATH=/app/models
+      - CONFIG_STORAGE_PATH=/app/configs
+    volumes:
+      - ./models:/app/models
+      - ./configs:/app/configs
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - deepar-network
+
+  # 可选：Redis Web管理界面
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: redis-commander
+    restart: unless-stopped
+    ports:
+      - "8081:8081"
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    depends_on:
+      - redis
+    networks:
+      - deepar-network
+    profiles:
+      - tools
+
+volumes:
+  redis_data:
+    driver: local
+
+networks:
+  deepar-network:
+    driver: bridge

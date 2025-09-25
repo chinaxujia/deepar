@@ -1,0 +1,78 @@
+{
+    "model_config": {
+        "name": "factory_energy_model",
+        "version": "1.0.0",
+        "description": "工厂能耗预测模型配置",
+        "algorithm": "DeepAR",
+        "parameters": {
+            "prediction_length": 24,
+            "context_length": 168,
+            "freq": "H",
+            "trainer": {
+                "epochs": 100,
+                "learning_rate": 0.001,
+                "batch_size": 32,
+                "num_batches_per_epoch": 50
+            }
+        },
+        "features": [
+            "timestamp",
+            "energy_consumption",
+            "temperature",
+            "humidity",
+            "production_load"
+        ],
+        "target": "energy_consumption"
+    },
+    "data_config": {
+        "validation_rules": {
+            "required_fields": [
+                "timestamp",
+                "energy_consumption"
+            ],
+            "numeric_fields": [
+                "energy_consumption",
+                "temperature",
+                "humidity",
+                "production_load"
+            ],
+            "datetime_fields": [
+                "timestamp"
+            ],
+            "value_ranges": {
+                "energy_consumption": [
+                    0,
+                    10000
+                ],
+                "temperature": [
+                    -20,
+                    60
+                ],
+                "humidity": [
+                    0,
+                    100
+                ],
+                "production_load": [
+                    0,
+                    100
+                ]
+            }
+        },
+        "preprocessing": {
+            "missing_value_strategy": "interpolate",
+            "outlier_detection": true,
+            "normalization": "standard"
+        }
+    },
+    "training_config": {
+        "data_split": {
+            "train_ratio": 0.8,
+            "validation_ratio": 0.2
+        },
+        "early_stopping": {
+            "enabled": true,
+            "patience": 10,
+            "min_delta": 0.001
+        }
+    }
+}

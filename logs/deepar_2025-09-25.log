@@ -1,0 +1,821 @@
+2025-09-25 13:17:04 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:04 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:04 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:07 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:07 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:07 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:09 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:09 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:09 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:12 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:12 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:12 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:14 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:14 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:14 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:18 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:18 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:18 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:23 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:23 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:23 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:32 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:32 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:32 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:17:47 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:17:47 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:17:47 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:18:15 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:18:15 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:18:15 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:19:08 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:19:08 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:19:08 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:20:10 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:20:10 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:20:10 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:12 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:12 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:12 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:15 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:15 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:15 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:15 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:17 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:17 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:17 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:17 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:19 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:19 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:19 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:19 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:22 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:22 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:22 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:22 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:24 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:24 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:24 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:24 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:28 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:28 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:28 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:28 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:33 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:33 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:33 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:33 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:42 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:42 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:42 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:42 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:21:56 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:21:56 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:21:56 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:21:56 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:20 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:20 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:20 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:20 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:20 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:20 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:20 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:20 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:20 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:20 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:20 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:20 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:20 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:20 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:20 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:20 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:23 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:23 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:23 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:23 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:23 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:23 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:23 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:23 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:23 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:23 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:23 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:23 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:23 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:23 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:23 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:23 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:25 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:25 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:25 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:25 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:25 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:25 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:25 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:25 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:25 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:25 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:25 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:25 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:25 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:25 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:25 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:25 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:27 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:27 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:27 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:27 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:27 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:27 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:28 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:28 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:28 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:28 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:28 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:28 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:28 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:28 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:28 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:28 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:30 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:30 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:30 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:30 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:30 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:30 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:30 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:30 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:30 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:30 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:30 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:30 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:30 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:30 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:30 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:30 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:34 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:34 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:34 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:34 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:34 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:34 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:34 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:34 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:34 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:34 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:34 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:34 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:34 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:34 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:34 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:34 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:39 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:39 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:39 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:39 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:39 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:39 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:40 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:40 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:40 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:40 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:40 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:40 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:40 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:40 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:40 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:40 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:22:48 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:48 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:48 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:48 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:22:48 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:22:48 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:22:48 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:22:48 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:22:48 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:22:48 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:22:48 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:22:48 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:22:48 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:22:48 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:22:48 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:22:48 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:23:03 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:23:03 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:23:03 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:23:03 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:23:03 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:23:03 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:23:03 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:23:03 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:23:03 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:23:03 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:23:03 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:23:03 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:23:03 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:23:03 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:23:03 [ERROR] uvicorn.error:121: Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 694, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 140, in merged_lifespan
+    async with original_context(app) as maybe_original_state:
+  File "/usr/local/lib/python3.9/contextlib.py", line 181, in __aenter__
+    return await self.gen.__anext__()
+  File "/app/main.py", line 45, in lifespan
+    os.makedirs(settings.DATA_DIR, exist_ok=True)
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+
+2025-09-25 13:23:03 [ERROR] uvicorn.error:59: Application startup failed. Exiting.
+2025-09-25 13:23:14 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:23:14 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:23:14 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:23:14 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:23:14 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:23:14 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:23:14 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:23:14 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:23:14 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:23:14 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:23:14 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:23:14 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:23:14 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:23:14 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:23:14 [INFO] main:48: 📁 数据目录初始化完成
+2025-09-25 13:23:14 [INFO] main:50: 🎯 服务启动完成!
+2025-09-25 13:23:14 [INFO] uvicorn.error:62: Application startup complete.
+2025-09-25 13:23:14 [INFO] uvicorn.error:216: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-09-25 13:23:17 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:17 [INFO] uvicorn.access:476: 127.0.0.1:42648 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:17 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:22 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:22 [INFO] uvicorn.access:476: 127.0.0.1:42656 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:22 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:27 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:27 [INFO] uvicorn.access:476: 127.0.0.1:55640 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:27 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:32 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:32 [INFO] uvicorn.access:476: 127.0.0.1:55652 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:32 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:37 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:37 [INFO] uvicorn.access:476: 127.0.0.1:37802 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:37 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:43 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:23:43 [INFO] uvicorn.access:476: 127.0.0.1:37808 - "GET /health HTTP/1.1" 500
+2025-09-25 13:23:43 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:24:13 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:24:13 [INFO] uvicorn.access:476: 127.0.0.1:52028 - "GET /health HTTP/1.1" 500
+2025-09-25 13:24:13 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 160, in health_check
+    ("data", settings.DATA_DIR),
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'DATA_DIR'
+2025-09-25 13:24:33 [INFO] uvicorn.error:264: Shutting down
+2025-09-25 13:24:33 [INFO] uvicorn.error:67: Waiting for application shutdown.
+2025-09-25 13:24:33 [INFO] main:55: 🔄 正在关闭服务...
+2025-09-25 13:24:33 [INFO] main:58: ✅ Redis连接已关闭
+2025-09-25 13:24:33 [INFO] main:60: 👋 服务已停止
+2025-09-25 13:24:33 [INFO] uvicorn.error:76: Application shutdown complete.
+2025-09-25 13:24:33 [INFO] uvicorn.error:94: Finished server process [1]
+2025-09-25 13:24:36 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:24:36 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:24:36 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:24:36 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:24:36 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:24:36 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:24:36 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:24:36 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:24:36 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:24:36 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:24:36 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:24:36 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:24:36 [ERROR] main:41: ❌ Redis连接失败: 'RedisService' object has no attribute 'ping'
+2025-09-25 13:24:36 [WARNING] main:42: ⚠️  将在无缓存模式下运行
+2025-09-25 13:24:36 [INFO] main:48: 📁 数据目录初始化完成
+2025-09-25 13:24:36 [INFO] main:50: 🎯 服务启动完成!
+2025-09-25 13:24:36 [INFO] uvicorn.error:62: Application startup complete.
+2025-09-25 13:24:36 [INFO] uvicorn.error:216: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-09-25 13:24:39 [INFO] uvicorn.access:476: 127.0.0.1:60540 - "GET /health HTTP/1.1" 200
+2025-09-25 13:25:09 [INFO] uvicorn.access:476: 127.0.0.1:53092 - "GET /health HTTP/1.1" 200
+2025-09-25 13:25:22 [INFO] uvicorn.access:476: 172.20.0.1:59424 - "GET /health HTTP/1.1" 200
+2025-09-25 13:25:31 [ERROR] main:108: 未处理的异常: AttributeError: 'Settings' object has no attribute 'PORT'
+2025-09-25 13:25:31 [INFO] uvicorn.access:476: 172.20.0.1:44982 - "GET /info HTTP/1.1" 500
+2025-09-25 13:25:31 [ERROR] uvicorn.error:414: Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1082, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/usr/local/lib/python3.9/site-packages/starlette/routing.py", line 75, in app
+    response = await f(request)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 308, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.9/site-packages/fastapi/routing.py", line 219, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/app/main.py", line 186, in system_info
+    "base_url": f"http://localhost:{settings.PORT}",
+  File "/usr/local/lib/python3.9/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Settings' object has no attribute 'PORT'
+2025-09-25 13:25:36 [INFO] uvicorn.access:476: 172.20.0.1:60926 - "GET /docs HTTP/1.1" 404
+2025-09-25 13:25:39 [INFO] uvicorn.access:476: 127.0.0.1:60940 - "GET /health HTTP/1.1" 200
+2025-09-25 13:26:09 [INFO] uvicorn.access:476: 127.0.0.1:60904 - "GET /health HTTP/1.1" 200
+2025-09-25 13:26:40 [INFO] uvicorn.access:476: 127.0.0.1:49416 - "GET /health HTTP/1.1" 200
+2025-09-25 13:26:44 [INFO] uvicorn.error:264: Shutting down
+2025-09-25 13:26:45 [INFO] uvicorn.error:67: Waiting for application shutdown.
+2025-09-25 13:26:45 [INFO] main:55: 🔄 正在关闭服务...
+2025-09-25 13:26:45 [INFO] main:58: ✅ Redis连接已关闭
+2025-09-25 13:26:45 [INFO] main:60: 👋 服务已停止
+2025-09-25 13:26:45 [INFO] uvicorn.error:76: Application shutdown complete.
+2025-09-25 13:26:45 [INFO] uvicorn.error:94: Finished server process [1]
+2025-09-25 13:26:47 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:26:47 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:26:47 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:26:47 [INFO] __main__:210: 🌟 启动DeepAR工厂能耗预测服务 v1.0.0
+2025-09-25 13:26:47 [INFO] __main__:211: 🌐 服务地址: http://localhost:8000
+2025-09-25 13:26:47 [INFO] __main__:212: 📚 API文档: http://localhost:8000/docs
+2025-09-25 13:26:47 [INFO] app.core.logging:89: 日志系统初始化完成
+2025-09-25 13:26:47 [INFO] app.core.logging:90: 日志级别: INFO
+2025-09-25 13:26:47 [INFO] app.core.logging:91: 日志文件: ./logs/deepar_2025-09-25.log
+2025-09-25 13:26:47 [INFO] uvicorn.error:84: Started server process [1]
+2025-09-25 13:26:47 [INFO] uvicorn.error:48: Waiting for application startup.
+2025-09-25 13:26:47 [INFO] main:33: 🚀 启动 DeepAR 工厂能耗预测服务...
+2025-09-25 13:26:47 [INFO] app.services.redis_service:35: Redis连接成功
+2025-09-25 13:26:47 [INFO] main:39: ✅ Redis连接成功
+2025-09-25 13:26:47 [INFO] main:48: 📁 数据目录初始化完成
+2025-09-25 13:26:47 [INFO] main:50: 🎯 服务启动完成!
+2025-09-25 13:26:47 [INFO] uvicorn.error:62: Application startup complete.
+2025-09-25 13:26:47 [INFO] uvicorn.error:216: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-09-25 13:26:51 [INFO] uvicorn.access:476: 127.0.0.1:56586 - "GET /health HTTP/1.1" 200
+2025-09-25 13:26:55 [INFO] uvicorn.access:476: 172.20.0.1:56592 - "GET /info HTTP/1.1" 200
+2025-09-25 13:26:55 [INFO] uvicorn.access:476: 172.20.0.1:56592 - "GET /favicon.ico HTTP/1.1" 404
+2025-09-25 13:26:58 [INFO] uvicorn.access:476: 172.20.0.1:34984 - "GET / HTTP/1.1" 200
+2025-09-25 13:27:08 [INFO] uvicorn.access:476: 172.20.0.1:56602 - "GET /docs HTTP/1.1" 404
+2025-09-25 13:27:13 [INFO] uvicorn.access:476: 172.20.0.1:56602 - "GET /info HTTP/1.1" 200
+2025-09-25 13:27:21 [INFO] uvicorn.access:476: 127.0.0.1:37846 - "GET /health HTTP/1.1" 200
+2025-09-25 13:27:51 [INFO] uvicorn.access:476: 127.0.0.1:54142 - "GET /health HTTP/1.1" 200
+2025-09-25 13:28:06 [INFO] uvicorn.access:476: 172.20.0.1:40986 - "GET /health HTTP/1.1" 200
+2025-09-25 13:28:11 [INFO] uvicorn.access:476: 172.20.0.1:40994 - "GET /health HTTP/1.1" 200
+2025-09-25 13:28:12 [INFO] uvicorn.access:476: 172.20.0.1:40994 - "GET /favicon.ico HTTP/1.1" 404
+2025-09-25 13:28:21 [INFO] uvicorn.access:476: 127.0.0.1:59590 - "GET /health HTTP/1.1" 200
+2025-09-25 13:28:22 [INFO] uvicorn.access:476: 172.20.0.1:59606 - "GET /info HTTP/1.1" 200
+2025-09-25 13:28:29 [INFO] uvicorn.access:476: 172.20.0.1:49632 - "GET /api/v1/ HTTP/1.1" 404
+2025-09-25 13:28:35 [INFO] uvicorn.access:476: 172.20.0.1:49636 - "GET /api/v1/data/list HTTP/1.1" 200
+2025-09-25 13:28:42 [INFO] uvicorn.access:476: 172.20.0.1:38136 - "GET /api/v1/training/list HTTP/1.1" 404
+2025-09-25 13:28:51 [INFO] uvicorn.access:476: 127.0.0.1:37912 - "GET /health HTTP/1.1" 200
+2025-09-25 13:28:56 [INFO] uvicorn.access:476: 172.20.0.1:37924 - "GET /api/v1/prediction/list HTTP/1.1" 404
+2025-09-25 13:29:14 [INFO] uvicorn.access:476: 172.20.0.1:53112 - "GET /api/v1/data/list HTTP/1.1" 200
+2025-09-25 13:29:21 [INFO] uvicorn.access:476: 127.0.0.1:57836 - "GET /health HTTP/1.1" 200
+2025-09-25 13:29:51 [INFO] uvicorn.access:476: 127.0.0.1:45560 - "GET /health HTTP/1.1" 200
+2025-09-25 13:30:21 [INFO] uvicorn.access:476: 127.0.0.1:46064 - "GET /health HTTP/1.1" 200
+2025-09-25 13:30:51 [INFO] uvicorn.access:476: 127.0.0.1:49518 - "GET /health HTTP/1.1" 200
+2025-09-25 13:31:22 [INFO] uvicorn.access:476: 127.0.0.1:56158 - "GET /health HTTP/1.1" 200
+2025-09-25 13:31:52 [INFO] uvicorn.access:476: 127.0.0.1:49558 - "GET /health HTTP/1.1" 200

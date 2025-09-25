@@ -1,0 +1,81 @@
+version: '3.8'
+
+services:
+  # 继承基础配置
+  redis:
+    extends:
+      file: docker-compose.yml
+      service: redis
+    ports:
+      - "6379:6379"
+
+  # DeepAR API服务 (开发模式)
+  deepar-api:
+    extends:
+      file: docker-compose.yml
+      service: deepar-api
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_DB=0
+      - LOG_LEVEL=DEBUG
+      - DEBUG=true
+      - MODEL_STORAGE_PATH=/app/models
+      - CONFIG_STORAGE_PATH=/app/configs
+    volumes:
+      - .:/app  # 挂载整个项目目录，支持热重载
+      - ./models:/app/models
+      - ./configs:/app/configs
+      - ./data:/app/data
+      - ./logs:/app/logs
+    command: uvicorn app:app --host 0.0.0.0 --port 8000 --reload --log-level debug
+
+  # Redis 管理界面
+  redis-commander:
+    extends:
+      file: docker-compose.yml
+      service: redis-commander
+
+  # Jupyter Notebook (用于数据分析和模型开发)
+  jupyter:
+    image: jupyter/scipy-notebook:latest
+    container_name: deepar-jupyter
+    restart: unless-stopped
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=deepar2024
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+      - ./models:/home/jovyan/models
+    networks:
+      - deepar-network
+    profiles:
+      - dev
+
+  # 监控工具 (轻量级)
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    networks:
+      - deepar-network
+    profiles:
+      - monitoring
+
+volumes:
+  redis_data:
+    driver: local
+  portainer_data:
+    driver: local
+
+networks:
+  deepar-network:
+    driver: bridge
